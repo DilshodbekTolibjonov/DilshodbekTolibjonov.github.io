@@ -1,0 +1,11 @@
+h2 {
+    font-size: 25px;
+    color: darkmagenta;
+    text-align: center;
+    font-weight: bold;
+    border: 5px double purple;
+}
+h1 {
+    font-size: 35px;
+    color: blueviolet;
+}
